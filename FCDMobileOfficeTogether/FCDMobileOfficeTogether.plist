@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://58.132.103.75:8080/FCDIpaWeb/FCDMobileOfficeTogether/FCDMobileOfficeTogether.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://58.132.103.75:8080/FCDIpaWeb/FCDMobileOfficeTogether/icon_57_office.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://58.132.103.75:8080/FCDIpaWeb/FCDMobileOfficeTogether/icon_512_office.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.bjmf.FCDMobileOfficeTogether</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>北京市朝阳区芳草地国际学校</string>
+				<key>title</key>
+				<string>即拍即传</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
