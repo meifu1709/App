@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.bjmf.ComprehensiveQualityEvaluation</string>
 				<key>bundle-version</key>
-				<string>1.4</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>黑芝麻胡同小学</string>
+				<string>综合素质评价</string>
 				<key>title</key>
-				<string>小芝麻成长记</string>
+				<string>综合素质评价</string>
 			</dict>
 		</dict>
 	</array>
