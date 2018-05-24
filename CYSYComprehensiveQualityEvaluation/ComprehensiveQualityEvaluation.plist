@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.116.247.1:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/ComprehensiveQualityEvaluation.ipa</string>
+					<string>http://58.132.64.17:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/ComprehensiveQualityEvaluation.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://58.116.247.1:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/icon_57_evaluation.png</string>
+					<string>http://58.132.64.17:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/icon_57_evaluation.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://58.116.247.1:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/icon_512_evaluation.png</string>
+					<string>http://58.132.64.17:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/icon_512_evaluation.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>综合素质评价</string>
 				<key>title</key>
-				<string>综合素质评价</string>
+				<string>朝阳实验小学</string>
 			</dict>
 		</dict>
 	</array>
