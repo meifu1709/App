@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.116.247.1:80/app/IOS/OAProgram/OAProgram.ipa</string>
+					<string>http://www.bjmf.com.cn:8090/APP/IOS/OAProgram/OAProgram.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://58.116.247.1:80/app/IOS/OAProgram/icon_57_evaluation.png</string>
+					<string>http://www.bjmf.com.cn:8090/APP/IOS/OAProgram/40-2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://58.116.247.1:80/app/IOS/OAProgram/icon_512_evaluation.png</string>
+					<string>http://www.bjmf.com.cn:8090/APP/IOS/OAProgram/40-3.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
