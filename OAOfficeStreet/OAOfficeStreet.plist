@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.30.142:8080/IOS/OAOffice/OAOffice.ipa</string>
+					<string>http://123.57.40.207:8189/APP/IOS/OAOffice/OAOffice.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.30.142:8080/IOS/OAOffice/logo57.png</string>
+					<string>http://123.57.40.207:8189/APP/IOS/OAOffice/logo57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.30.142:8080/IOS/OAOffice/logo512.png</string>
+					<string>http://123.57.40.207:8189/APP/IOS/OAOffice/logo512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bjmf.OAOfficeStreet</string>
+				<string>com.fenyuan.CYOAOffice</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
