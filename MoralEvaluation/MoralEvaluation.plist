@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://39.96.67.13/app/ios/MoralEvaluation/logo20@2x.png</string>
+					<string>http://39.96.67.13/app/ios/MoralEvaluation/icon_57_evaluation.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://39.96.67.13/app/ios/MoralEvaluation/logo60@3x.png</string>
+					<string>http://39.96.67.13/app/ios/MoralEvaluation/icon_512_evaluation.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
