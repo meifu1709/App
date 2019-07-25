@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.bjmf.StuMoralEvaluation</string>
 				<key>bundle-version</key>
-				<string>1.4.1</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>北京美福科技股份有限公司</string>
 				<key>title</key>
-				<string>小学生日常行为评价</string>
+				<string>启明星</string>
 			</dict>
 		</dict>
 	</array>
