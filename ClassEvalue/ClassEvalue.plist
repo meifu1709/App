@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.116.247.1:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/ComprehensiveQualityEvaluation.ipa</string>
+					<string>http://sc.bjmf.com.cn/library/ios/ClassEvalue/ClassEvalue.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://58.116.247.1:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/icon_57_evaluation.png</string>
+					<string>http://sc.bjmf.com.cn/library/ios/ClassEvalue/icon_57_evaluation.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://58.116.247.1:80/CQEPlatform/app/IOS/ComprehensiveQualityEvaluation/icon_512_evaluation.png</string>
+					<string>http://sc.bjmf.com.cn/library/ios/ClassEvalue/icon_512_evaluation.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bjmf.ComprehensiveQualityEvaluation</string>
+				<string>com.bjmf.StuMoralEvaluation</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>v1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>综合素质评价</string>
+				<string>北京美福科技股份有限公司</string>
 				<key>title</key>
-				<string>综合素质评价</string>
+				<string>听评课</string>
 			</dict>
 		</dict>
 	</array>
