@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bjmf.ClassEvalue</string>
+				<string>com.bjmf.SubjectEvaluation</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>北京美福科技股份有限公司</string>
 				<key>title</key>
-				<string>听评课</string>
+				<string>学科评价</string>
 			</dict>
 		</dict>
 	</array>
